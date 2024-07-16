@@ -40,7 +40,7 @@ Follow these steps to set up and install the project on your local machine:
    pandas
    ```
 
-5. **Launch Jupyter Notebook**:
+5. **Launch Jupyter Notebook**
 
 6. **Open the Jupyter Notebook**:
    - Navigate to the directory where the repository is located.
